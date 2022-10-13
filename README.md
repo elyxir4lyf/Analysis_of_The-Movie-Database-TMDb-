@@ -38,6 +38,7 @@ In this project, I endevoured to analyze and visualize the WeRateDogs Master_Cle
 
 ### Question(s) for Analysis
 <hr>
+
 **1**: What are the top ten films by popularity?
 
 **2**: What are the top ten films by vote_count?
